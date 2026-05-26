@@ -1,0 +1,18 @@
+Git vs GitHub 
+
+| Git                                    | GitHub                                            |
+| -------------------------------------- | ------------------------------------------------- |
+| A **version control system**           | A **cloud platform** for hosting Git repositories |
+| Tracks changes in code                 | Stores and manages Git projects online            |
+| Works on your local computer           | Works on the internet                             |
+| Developed by Linus Torvalds            | Owned by Microsoft                                |
+| Used to commit, branch, and merge code | Used to collaborate, share, and manage projects   |
+
+### Example
+
+1. Write code on your computer.
+2. Use **Git** to save versions of your code (`git commit`).
+3. Upload the code to **GitHub** (`git push`).
+4. Team members can download, review, and contribute to the project.
+
+Git is a version control tool that tracks code changes, while GitHub is an online platform that hosts Git repositories and enables collaboration.**

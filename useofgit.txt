@@ -1,0 +1,22 @@
+What is the Use of Git?
+
+**Git** is a **version control system** used to track and manage changes in source code during software development.
+
+### Simple Uses of Git
+Records every change made to files and code.
+Allows you to go back to older versions if something goes wrong.
+Multiple developers can work on the same project without overwriting each other's work.
+Keeps a complete history of the project.
+Developers can work on new features separately and later combine them with the main project.
+
+### Real-Life Example
+Suppose you're building a website:
+
+1. Save the current code using Git (**commit**).
+2. Make new changes.
+3. If the new code causes errors, Git lets you return to the previous working version.
+4. Team members can also add their changes and merge them together.
+
+
+
+Git is a version control system that tracks code changes, maintains project history, enables team collaboration, and allows developers to restore previous versions when needed.**
